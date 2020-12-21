@@ -1,0 +1,20 @@
+.Statistics__container {
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.Statistics__list {
+  list-style: none;
+}
+
+.Statistics__list-item-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Statistics__list-item-value {
+  font-size: 18px;
+  margin-left: 10px;
+}

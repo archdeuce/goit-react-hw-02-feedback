@@ -1,0 +1,21 @@
+.FeedbackOptions__buttons {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.FeedbackOptions__buttons-item {
+  margin: 5px;
+}
+
+.FeedbackOptions__button {
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  height: 30px;
+  width: 80px;
+}
+
+.FeedbackOptions__button:active {
+  border: solid 1px orange;
+}

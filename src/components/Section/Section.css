@@ -1,0 +1,9 @@
+.Section__container {
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
